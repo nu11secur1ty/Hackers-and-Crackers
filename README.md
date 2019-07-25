@@ -81,4 +81,4 @@
 
 Христо Тужаров
 
-
+Download: [Link:](https://gist.github.com/nu11secur1ty/93bff70936f69b173a122bc00481e8a2)
