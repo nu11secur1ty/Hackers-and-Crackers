@@ -75,10 +75,12 @@
 
 ***От***
 
-Венцислав Върбановски @nu11secur1ty
+Венцислав Върбановски @nu11secur1ty [още](https://www.nu11secur1ty.com/)
 
 ----------------------------------
 
-Христо Тужаров
+Христо Тужаров [още:](http://tuj.asenevtsi.com/A1.htm)
+
+----------------------------------
 
 Download: [Link:](https://gist.github.com/nu11secur1ty/93bff70936f69b173a122bc00481e8a2)
