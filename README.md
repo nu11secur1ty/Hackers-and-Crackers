@@ -2,3 +2,6 @@
 
 # Hacker
 ![](https://github.com/nu11secur1ty/Hackers-and-Crackers/blob/master/wall/larrywall.jpg)
+
+# Cracker
+![](https://github.com/nu11secur1ty/Hackers-and-Crackers/blob/master/wall/cracker.jpg)
