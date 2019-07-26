@@ -85,9 +85,4 @@
 
 Download: [Link:](https://gist.github.com/nu11secur1ty/93bff70936f69b173a122bc00481e8a2)
 
-----------------------------------------------------------------------------------------------------
-
-# More information, English version:
-
-![](https://github.com/nu11secur1ty/Hackers-and-Crackers/blob/master/wall/hackers-%26-crackers-infographics.jpg)
 
