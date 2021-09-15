@@ -75,7 +75,7 @@
 
 ***От***
 
-Венцислав Върбановски @nu11secur1ty [още](https://www.nu11secur1ty.com/)
+@nu11secur1ty [още](https://www.nu11secur1ty.com/)
 
 ----------------------------------
 
